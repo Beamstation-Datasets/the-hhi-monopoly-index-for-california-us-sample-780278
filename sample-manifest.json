@@ -1,0 +1,12 @@
+{
+  "export_job_id": "deefb9ad-70ba-41d8-bb2b-92821fe0c64d",
+  "id_short": 780278,
+  "published_at": "2026-04-15T19:17:43Z",
+  "repo_name": "the-hhi-monopoly-index-for-california-us-sample-780278",
+  "sample_asset_name": "beamstation_780278_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/780278/beamstation_780278_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_records": 147,
+  "sample_sha256": "a6dde242dec8e0aaff375dbdad83c10b4d270bdc78c1854fcad3f3357cbfdef9",
+  "sample_size_bytes": 598028,
+  "total_records": 1716
+}

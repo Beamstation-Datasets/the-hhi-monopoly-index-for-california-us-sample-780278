@@ -1,0 +1,22 @@
+{
+  "base_price": 4995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
+  "config_name": "The HHI Monopoly Index for California, US",
+  "export_job_id": "deefb9ad-70ba-41d8-bb2b-92821fe0c64d",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 780278,
+  "location_name": "California",
+  "location_type": "state",
+  "repo_name": "the-hhi-monopoly-index-for-california-us-sample-780278",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/780278/beamstation_780278_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 8.57,
+  "sample_records": 147,
+  "sample_sha256": "a6dde242dec8e0aaff375dbdad83c10b4d270bdc78c1854fcad3f3357cbfdef9",
+  "sample_size_bytes": 598028,
+  "total_records": 1716,
+  "updated_at": "2026-04-07T18:32:50.650078+00:00"
+}

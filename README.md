@@ -9,9 +9,9 @@
 | Dataset ID | `780278` |
 | Location | California |
 | Category | Restaurants |
-| Full dataset size | 1,716 records |
-| Free sample size | 147 records (8.57%) |
-| Last export | 2026-04-07T18:32:50.650078+00:00 |
+| Full dataset size | 1,476 records |
+| Free sample size | 147 records (9.96%) |
+| Last export | 2026-04-14T23:51:08.348327+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-california-us-sample-780278/releases/download/sample-latest/beamstation_780278_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
